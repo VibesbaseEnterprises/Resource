@@ -11,9 +11,9 @@ try
 {
 
 }
- catch (Exception ex)
- {
-       throw ExceptionUtility.WrapException(MethodBase.GetCurrentMethod(), ex, "OTHER MESSAGES HERE");
- }
+catch (Exception ex)
+{
+      throw ExceptionUtility.WrapException(MethodBase.GetCurrentMethod(), ex, "OTHER MESSAGES HERE");
+}
 
 ``` 
