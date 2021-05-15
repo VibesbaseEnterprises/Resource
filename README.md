@@ -1,4 +1,4 @@
 # Resource
 [CSharp Guide Line (Chinese)](CSharpChinese.md)
 
-[Exception Handling](exception.md)
+[Exception Handling](Exception.md)
